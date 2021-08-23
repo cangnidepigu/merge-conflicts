@@ -16,8 +16,8 @@
   description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
   
   # C# WPF role-playing game
-  - project: C# WPF role-playing game
-    role: Owner
-    duarion: March, 2021 &mdash; Present
-    url: 
-    description: A simple role-playing game written in C# using WPF and XAML
+  project: C# WPF role-playing game
+  role: Owner
+  duarion: March, 2021 &mdash; Present
+  url: "https://github.com/cangnidepigu/WPF-RPG"
+  description: A simple role-playing game written in C# using WPF and XAML
